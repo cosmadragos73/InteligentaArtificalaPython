@@ -31,7 +31,7 @@ A. Stratgeii de cautare neinformate:
         #missing = len(GOAL) - len(state)
         #return wrong + missing
 
-     #NOTE: this is used only for algorithms that are informed( A* or greedy search)
+     #NOTE: this is used only for algorithms that are informed( A* or greedy search
 
 
 
